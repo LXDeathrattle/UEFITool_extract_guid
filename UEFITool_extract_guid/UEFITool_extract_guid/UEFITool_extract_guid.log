@@ -1,0 +1,32 @@
+﻿  uic x64\searchdialog.ui
+  uic x64\uefitool.ui
+  moc x64\uefitool.h
+  moc x64\treemodel.h
+  moc x64\searchdialog.h
+  moc x64\ffsengine.h
+  descriptor.cpp
+  ffs.cpp
+  ffsengine.cpp
+  guidlineedit.cpp
+  messagelistitem.cpp
+  peimage.cpp
+  searchdialog.cpp
+  treeitem.cpp
+  treemodel.cpp
+  types.cpp
+  uefitool.cpp
+  uefitool_main.cpp
+  LzmaCompress.c
+  LzmaDecompress.c
+  Bra86.c
+  LzFind.c
+  LzmaDec.c
+  LzmaEnc.c
+  EfiTianoCompress.c
+  EfiTianoCompressLegacy.c
+  EfiTianoDecompress.c
+  moc_uefitool.cpp
+  moc_treemodel.cpp
+  moc_searchdialog.cpp
+  moc_ffsengine.cpp
+  UEFITool_extract_guid.vcxproj -> C:\Users\lxd\source\repos\UEFITool_extract_guid\x64\Release\UEFITool_extract_guid.exe

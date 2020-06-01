@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Other Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="x64\descriptor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\ffs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\ffsengine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\guidlineedit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\messagelistitem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\peimage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\searchdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\treeitem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\treemodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\uefitool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\uefitool_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\Tiano\EfiTianoCompress.c">
+      <Filter>Other Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\Tiano\EfiTianoCompressLegacy.c">
+      <Filter>Other Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\Tiano\EfiTianoDecompress.c">
+      <Filter>Other Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\LZMA\LzmaCompress.c">
+      <Filter>Other Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\LZMA\LzmaDecompress.c">
+      <Filter>Other Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\LZMA\SDK\C\Bra86.c">
+      <Filter>Other Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\LZMA\SDK\C\LzFind.c">
+      <Filter>Other Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\LZMA\SDK\C\LzmaDec.c">
+      <Filter>Other Files</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\LZMA\SDK\C\LzmaEnc.c">
+      <Filter>Other Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="x64\basetypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\descriptor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\ffs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\gbe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\guidlineedit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\me.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\messagelistitem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\peimage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\treeitem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\Tiano\EfiTianoCompress.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\Tiano\EfiTianoDecompress.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\LzmaCompress.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\LzmaDecompress.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\UefiLzma.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\SDK\C\7zVersion.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\SDK\C\Bra.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\SDK\C\CpuArch.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\SDK\C\LzFind.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\SDK\C\LzHash.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\SDK\C\LzmaDec.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\SDK\C\LzmaEnc.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\SDK\C\Types.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+    <ClInclude Include="x64\LZMA\x86Convert.h">
+      <Filter>Other Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="x64\ffsengine.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="x64\searchdialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="x64\treemodel.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="x64\uefitool.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="x64\uefitool.aps">
+      <Filter>Other Files</Filter>
+    </None>
+    <None Include="x64\uefitool.icns">
+      <Filter>Other Files</Filter>
+    </None>
+    <None Include="x64\LICENSE.md">
+      <Filter>Other Files</Filter>
+    </None>
+    <None Include="x64\uefitool.pro.user">
+      <Filter>Other Files</Filter>
+    </None>
+    <None Include="x64\uefitool.pro">
+      <Filter>Other Files</Filter>
+    </None>
+    <None Include="x64\README.rst">
+      <Filter>Other Files</Filter>
+    </None>
+    <None Include="x64\unixbuild.sh">
+      <Filter>Other Files</Filter>
+    </None>
+    <None Include="x64\.gitattributes">
+      <Filter>Other Files</Filter>
+    </None>
+    <None Include="x64\.gitignore">
+      <Filter>Other Files</Filter>
+    </None>
+    <None Include="x64\.appveyor.yml">
+      <Filter>Other Files</Filter>
+    </None>
+    <None Include="x64\.travis.yml">
+      <Filter>Other Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="x64\uefitool.ico">
+      <Filter>Other Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="x64\searchdialog.ui">
+      <Filter>Other Files</Filter>
+    </QtUic>
+    <QtUic Include="x64\uefitool.ui">
+      <Filter>Other Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="x64\uefitool.rc">
+      <Filter>Other Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
