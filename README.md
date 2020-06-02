@@ -5,4 +5,4 @@ Usage:
 
     UEFITool_extract_guid BIOS.bin guid
 
-Environment: Visual Studio + Qt.
+Visual Studio + Qt.
