@@ -7,4 +7,4 @@ Usage:
 
 Visual Studio + Qt.
 
-qt runtime environment required. You can use windeployqt to complete the environment.
+Qt runtime environment required. You can use windeployqt to complete the environment.
