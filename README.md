@@ -1,5 +1,5 @@
 # UEFITool_extract_guid
-A broken UEFITool. Used to extract all corresponding binaries according to GUID.Naming binary files based on "offsets".
+A broken UEFITool. Used to extract all corresponding binaries according to GUID. Naming binary files based on "offsets".
 
 Usage:
 
